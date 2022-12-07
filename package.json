@@ -9,7 +9,7 @@
   "author": "thepapanoob <dicksinmyanus@hotmail.de>",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.2",
+    "express": "^4.18.2",
     "multer": "^1.3.0"
   }
 }
